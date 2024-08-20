@@ -1,1 +1,1 @@
- LLM And Large Image Model Application Using Gemini-1.5-flash and Gemini Gemini Pro
+ LLM And Large Image Model Application Using Google Gemini-1.5-flash and Google Gemini Pro
